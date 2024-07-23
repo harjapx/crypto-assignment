@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "@types/redux": "^3.6.0",
+    "@types/redux-thunk": "^2.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
